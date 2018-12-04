@@ -1,0 +1,20 @@
+*** TKStudio Project Config (C)ZLG-MCU By YinHandong[Òüº®¶¬]
+*** Do not modify !
+
+ACTCFG <DebugRel>
+TARGOPT 1,()
+  OPTFFF <.\mic485_1.c> {2,3,-1,-1,0,0,932,357,183,8730}
+  OPTFFF <Disassembly> {0,1,-1,-1,22,29,954,339,0,0}
+  OPTDF 0
+  OPTKEY <drv\tks_deb_b.dll>,(-S1 -B115200 -O1792 -E0 -F11059200 -f11059200 -I0 -M0V2T0S0E65535 -M1V0T0S0E0 -M2V0T0S0E0 -M3V2T0S0E65535 -M0V0T0S0E0 -M1V0T0S0E0 -M2V0T0S0E0 -M3V0T0S0E0)
+  OPTDLG 0,(Tmap51.dll)()
+  OPTDLG 1,(peri\dlpc.dll)()
+  OPTDLG 2,(peri\dp51.dll)()
+  OPTDLG 3,(peri\bhdc.dll)()
+  OPTDLG 4,(peri\profiler.dll)()
+  OPTDLG 5,(peri\lcddll.dll)()
+  OPTDLG 6,(peri\signalplugin.dll)()
+  OPTDLG 7,(peri\oscillograph.dll)((98=-1,-1,-1,-1,0)(102=-1,-1,-1,-1,0)(103=-1,-1,-1,-1,0)(94=-1,-1,-1,-1,0)(82=-1,-1,-1,-1,0)(10006=-1,-1,-1,-1,0)(10007=-1,-1,-1,-1,0)(10008=-1,-1,-1,-1,0)(80=-1,-1,-1,-1,0)(104=-1,-1,-1,-1,0)(16002=-1,-1,-1,-1,0)(13000=-1,-1,-1,-1,0)(16000=-1,-1,-1,-1,0)(21000=-1,-1,-1,-1,0)(21005=-1,-1,-1,-1,0)(21006=-1,-1,-1,-1,0)(8000=-1,-1,-1,-1,0))
+  OPTDLG 8,(drv\tks_deb_b.dll)()
+  OPTPES 1,0,1,0,
+EndOpt

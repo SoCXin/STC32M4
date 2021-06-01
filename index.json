@@ -1,0 +1,32 @@
+{
+    "type":"MCU",
+    "name":"STC32M4",
+    "title": "STC MCU",
+    "description":"STC 8051 MCU",
+    "Core": {
+        "num": 1,
+        "type":"8051",
+        "Freq":24,
+        "DMIPS": 125,
+        "CoreMark": 339
+    },
+    "manufacturer": {
+        "vendor":"STC",
+        "homepage":"https://www.stcmcudata.com/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/STC32M4.git"
+    },
+    "version":"1.0.0",
+    "series":["STC32M4H","STC32M4G","STC32M4F","STC32M4A"],
+    "package":["LQFP176","LQFP144","LQFP100","LQFP64","LQFP176","WLCSP66","UFBGA176"],
+    "peripheral": ["ADC","UART","I2C","SPI","PWM"],
+    "keywords": [
+        "dev-platform",
+        "ARM",
+        "Cortex-M",
+        "ADC","DAC","SDIO","CAN","I2C","RTC","SPI",
+        "3.6V","1.8V"
+    ]
+}

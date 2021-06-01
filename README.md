@@ -2,8 +2,8 @@
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-* [STC](https://www.stcmcudata.com/): [M Star](https://github.com/SoCXin/Cortex)
-* [L2R1](https://github.com/SoCXin/Level): 64 MHz
+* [STC](https://www.stcmcudata.com/): [Cortex-M4](https://github.com/SoCXin/Cortex)
+* [L5R4](https://github.com/SoCXin/Level): 168 MHz
 
 ## [简介](https://github.com/SoCXin/STC32M4/wiki)
 

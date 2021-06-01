@@ -2,7 +2,7 @@
     "type":"MCU",
     "name":"STC32M4",
     "title": "STC MCU",
-    "description":"STC 8051 MCU",
+    "description":"STC Cortex-M4 MCU",
     "Core": {
         "num": 1,
         "type":"8051",

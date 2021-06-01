@@ -2,8 +2,8 @@
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-* [STC](https://www.stcmcudata.com/): [8051](https://github.com/SoCXin/8051)
-* [L2R1](https://github.com/SoCXin/Level): 24 MHz
+* [STC](https://www.stcmcudata.com/): [M Star](https://github.com/SoCXin/Cortex)
+* [L2R1](https://github.com/SoCXin/Level): 64 MHz
 
 ## [简介](https://github.com/SoCXin/STC32M4/wiki)
 
@@ -13,16 +13,12 @@
 
 ### 关键特性
 
-* EEPROM
-* USB下载
+* CAN+USB
 
-#### 封装规格 (4)
+#### 封装规格
 
 * LQFP64 (10×10mm)
-* LQFP48 (7×7mm)
-* LQFP32 (7×7mm)
-* TSSOP20
-* SOP8/DFN8
+
 
 ### [资源收录](https://github.com/SoCXin)
 

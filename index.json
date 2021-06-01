@@ -20,7 +20,7 @@
     },
     "version":"1.0.0",
     "series":["STC32M4H","STC32M4G","STC32M4F","STC32M4A"],
-    "package":["LQFP176","LQFP144","LQFP100","LQFP64","LQFP176","WLCSP66","UFBGA176"],
+    "package":["LQFP64"],
     "peripheral": ["ADC","UART","I2C","SPI","PWM"],
     "keywords": [
         "dev-platform",
